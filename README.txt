@@ -8,3 +8,5 @@ Hello!
 
 I created a remote repositor.
 
+I'm learning Git too.
+
